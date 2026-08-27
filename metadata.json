@@ -1,0 +1,6 @@
+{
+  "name": "LAST ONE",
+  "description": "A high-stakes 8-contestant single-player survival tournament game featuring 14 dynamic elimination mini-games against unique AI personalities and an epic multi-stage finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
